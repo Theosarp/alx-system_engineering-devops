@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Alx requires a lot of stamina." | rot13
+tr 'nyk' 'vf' 'tbbq'
